@@ -1,5 +1,3 @@
-Here's a more visually appealing and well-organized version of your `README.md` content:
-
 ```markdown
 # Pre-commit Framework
 
